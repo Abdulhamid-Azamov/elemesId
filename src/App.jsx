@@ -9,9 +9,7 @@ const App = () => {
         <Category />
         <Trending />
       </main>
-      <footer>
-        <Footer />
-      </footer>
+      <Footer />
     </>
   )
 }
